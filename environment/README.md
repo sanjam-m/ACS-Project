@@ -11,7 +11,11 @@ Create a S3 bucket
 
 Generate a SSH key The command is : ssh-keygen -t rsa -f Group14-dev
 
-Terraform can be applied through the follwoing commands: terraform init terraform validate terraform plan terraform apply
+Terraform can be applied through the following commands: 
+terraform init 
+terraform validate 
+terraform plan 
+terraform apply
 
 Start with the networking module, followed by the webserver module
 
