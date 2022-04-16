@@ -2,11 +2,11 @@
 
 In this project we will deploy a Dev environment with auto scaling and load balancing features. Follow the steps in the README file.
 
-1. Create a S3 bucket for to load images 
+1. Create a S3 bucket to load images 
 
--Create a public bucket with name as mentioned below and upload 2 images from the path (Final_Project-ACS730/terraform/modules/asg/): 
+-Create a public bucket with name as mentioned below and upload 2 images from the path (): 
 
-Bucket name - website-images-project 
+Bucket name -  
 
 Image1 - .jpeg 
 
