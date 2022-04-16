@@ -14,10 +14,10 @@ Image2 - .jpeg
 
 2. Generate a SSH key for dev, prod and staging in their respective folders using the following commands:
 
-ssh-keygen -t rsa -f <key-name>
+ssh-keygen -t rsa -f (key-name)
 ssh-keygen -t rsa -f 
 
-3. Create S3 buckets using S3 module: Navigate to Final_Project-ACS730/terraform/modules/s3 run the terraform deployment commands as mentioned below:
+3. Create S3 buckets using S3 module: Navigate to path () run the terraform deployment commands as mentioned below:
 
 terraform init
 terraform validate
