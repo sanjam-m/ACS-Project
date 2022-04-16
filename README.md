@@ -1,6 +1,6 @@
 # ACS-Project
 
-In this project we will deploy a Dev environment with auto scaling and load balancing features. Follow the steps in the README file.
+In this project we will deploy different environments auch as dev, prod and staging with auto scaling and load balancing features. Follow the steps in the README file.
 
 1. Create a S3 bucket to load images 
 
@@ -36,3 +36,5 @@ terraform apply
 5. Deploy the peering module
 
 6. Finally test the webpages using the DNS of Load Balancer.
+  
+By : Sanjam Malhotra, Rajvi Khatri, Kartik Sharma, Bibek Shrees  
